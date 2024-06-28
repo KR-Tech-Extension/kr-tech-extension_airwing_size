@@ -1,6 +1,6 @@
 # KR Tech Extension: Squadron Size Air Wings
 
-### Last Updated for June 4, 2024. (KR's 1.1.3 release)
+### Last Updated for June 29, 2024. (KR's 1.1.4 release)
 
 This is the official submod for [KR Tech Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=3105210203) that reduces the average airwing size down from 100 to 24 (12 for strategic bombers, 50 for transport planes & guided missiles - carrier airwings size remained the same but are 24 on land), based on Jax's [Squadron Size Air Wings](https://steamcommunity.com/sharedfiles/filedetails/?id=2872975666) series of HoI4 mod.
 
