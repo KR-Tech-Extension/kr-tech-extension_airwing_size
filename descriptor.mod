@@ -8,7 +8,7 @@ dependencies={
 	"KR Tech Extension"
 }
 picture="thumbnail.png"
-version="1.1.4"
+version="1.2.0"
 supported_version="1.14.*"
 path="C:/Users/sirip/OneDrive/Documents/Paradox Interactive/Hearts of Iron IV/mod/navyfieldgfx-hoi4_airwing_size"
 remote_file_id="3233521282"
